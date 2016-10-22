@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MyTestApp</string>
+    <string name="app_name">MiAppDePrueba</string>
     <string name="mensaje">Esta es mi primera aplicacion en Android</string>
+    <string name="btnIngreso">Ingreso</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTestApp</string>
+    <string name="mensaje">This is my first application for android</string>
+    <string name="btnIngreso">Login</string>
+</resources>
