@@ -3,4 +3,7 @@
     <string name="app_name">MyTestApp</string>
     <string name="mensaje">This is my first application for android</string>
     <string name="btnIngreso">Login</string>
+    <string name="hintIngreso">Press here to see some magic...</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
 </resources>

@@ -2,4 +2,8 @@
     <string name="app_name">MiAppDePrueba</string>
     <string name="mensaje">Esta es mi primera aplicacion en Android</string>
     <string name="btnIngreso">Ingreso</string>
+    <string name="alertaInicio">4,3,2,1 Earth below us, drifting, falling...</string>
+    <string name="hintIngreso">Presiona aqui para ver algo magico...</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contrasena</string>
 </resources>
